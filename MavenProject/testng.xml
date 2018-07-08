@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="Example.Test1"/>
+       <class name="Example.Test2"/>
       
     </classes>
   </test> <!-- Test -->
